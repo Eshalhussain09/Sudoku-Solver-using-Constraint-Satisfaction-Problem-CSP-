@@ -1,4 +1,3 @@
-# Sudoku-Solver-using-Constraint-Satisfaction-Problem-CSP-
 # Sudoku Solver using CSP (AC-3 + Backtracking + Forward Checking)
 
 ## Overview
